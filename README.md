@@ -1,1 +1,14 @@
 # Analise_e_Previsao_de_IPCA_por_subitens
+-Análise e previsão da inflação através de subitens ao longo do ano de 2025
+- Fonte: IBGE, Tabela do IPCA mensal de subitens
+- Modelo para previsão utilizado foi o ARIMA 1,0,0 (Utilizado tanto no Python, quanto em R)
+- 
+- Ferramentas utilizadas:
+-	Python, usando o Jupyer Notebook(Pandas, matplotlib, statsmodel)
+-	R, Utilizando o Rstudio (dplyr, ggplot2, forecast)
+-	Microsoft Power BI(Dashboard e visualização dos dados)
+-	
+- Arquivos:
+-	Python(tratamento de dados e estruturação do dataframe)
+-	Dashboard(Análise e previsão em Power BI)
+-	Plot R(Previsão para 2026 feita com ARIMA na linguagem R)
