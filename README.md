@@ -12,3 +12,4 @@
 -	Python(tratamento de dados e estruturação do dataframe)
 -	Dashboard(Análise e previsão em Power BI)
 -	Plot R(Previsão para 2026 feita com ARIMA na linguagem R)
+-	IPCA2025(Dataframe tratado utilizado para as análises)
